@@ -4,7 +4,8 @@ Fixes for W10 problems.
 Apply Registration Entries for fast fix, without using RegEdit manually. Files are located in different branches.  
 
 Registration Entries for Enabling and Disabling:   
-  + OneDrive From File Explorer (64-bit) 
+  + OneDrive to File Explorer (64-bit) 
+  + GoogleDrive to File Explorer (64-bit)
   + Action Center  
   + Aero Shake for current user  
   + Windows Defender Security Center  
