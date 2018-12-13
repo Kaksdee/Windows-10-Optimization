@@ -1,0 +1,8 @@
+NVIDIA color settings are overridden by Windows after restart/reboot/startup/bootup.
+
+Open Task Scheduler
+-> Task Scheduler Library
+  -> Microsoft
+    -> Windows
+      -> WindowsColorSystem
+        Right Click: Calibration Loader and Disable.
