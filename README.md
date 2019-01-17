@@ -16,3 +16,4 @@ Registration Entries for Enabling and Disabling:
   + Scan with Windows Defender UI  
   + Share from context menu  
   + Windows Defender Antivirus  
+  + Verbose Status (Info during boot and shutdown)
